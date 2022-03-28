@@ -1,0 +1,9 @@
+#mainPane{
+    -fx-background-color: rgb(215, 255, 225);
+}
+Text{
+    -fx-font: 15px "Fira Code Light", serif;
+}
+Pane,GridPane{
+    -fx-translate-y: 2px;
+}

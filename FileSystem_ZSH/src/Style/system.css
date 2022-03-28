@@ -1,0 +1,13 @@
+#main{
+    -fx-background-color: rgb(215, 255, 225);
+}
+#fms{
+    -fx-font: 12px "Fira Code Light", serif;
+    -fx-translate-x: 10;
+    -fx-translate-y: 5;
+}
+#bms{
+    -fx-font: 12px "Fira Code Light", serif;
+    -fx-translate-x: 10;
+    -fx-translate-y: 5;
+}

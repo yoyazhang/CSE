@@ -1,0 +1,14 @@
+#mainTab{
+    -fx-background-color: rgb(215, 255, 225);
+}
+#mainBox{
+    -fx-translate-y: 7px;
+    -fx-translate-x: 10px;
+    -fx-font: 12px "Fira Code Light", serif;
+}
+#table{
+    -fx-pref-height: 200px;
+}
+Button{
+    -fx-translate-x: 500px;
+}

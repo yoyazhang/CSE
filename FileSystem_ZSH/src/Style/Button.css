@@ -1,0 +1,14 @@
+Button{
+    -fx-background-radius: 7px;
+    -fx-border-radius: 7px;
+    -fx-pref-width: 100;
+    -fx-pref-height: 24;
+    -fx-text-fill: #fffefd;
+    -fx-font: 15px "Fira Code";
+    -fx-effect: dropshadow( three-pass-box , rgba(255, 254, 253, 0.6), 5, 0.5 , 1 , 1 );
+    -fx-background-color: #6b96ff;
+}
+Button:hover{
+    -fx-background-color: #4664ff;
+    -fx-text-fill: whitesmoke;
+}

@@ -1,0 +1,12 @@
+#table{
+    -fx-background-color: rgb(215, 255, 225);
+}
+
+VBox{
+    -fx-font: 12px "Fira Code Light", serif;
+    -fx-translate-x: 10;
+    -fx-translate-y: 10;
+}
+Text{
+    -fx-font: 12px "Fira Code Light", serif;
+}
